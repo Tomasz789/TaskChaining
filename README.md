@@ -8,6 +8,6 @@ Task 2: Returns previous array but its elements are multiplied by randomly gener
 Task 3: Sorts the array in ascending order. <br/>
 Task 4: Finds an average value of items of the array. <br/>
 
-![Photo](https://github.com/Tomasz789/TaskChaining/blob/master/updatedExample.PNG)
+![Photo](https://github.com/Tomasz789/TaskChaining/blob/master/asyncexample.PNG)
 
 
